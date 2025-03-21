@@ -33,7 +33,7 @@ eats(bill).
 
 
 ### Output:
-![Uploading image.png…]()
+![Screenshot (32)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/0804bca9-ce70-459f-822b-3de4a4c090bd)
 
 
 
